@@ -8,6 +8,6 @@ diasIniciais = diasIniciais % 365;
 const mes = parseInt(diasIniciais / 30);
 diasIniciais = diasIniciais % 30;
 
-console.log(`${ano} ano (s)`)
-console.log(`${mes} mes (es)`)
-console.log(`${diasIniciais} dia (s)`)
+console.log(`${ano} ano(s)`)
+console.log(`${mes} mes(es)`)
+console.log(`${diasIniciais} dia(s)`)
